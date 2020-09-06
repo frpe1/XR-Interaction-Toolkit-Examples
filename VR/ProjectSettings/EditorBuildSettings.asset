@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WorldInteractionDemo.unity
     guid: cd5458b6a8920b348b4fbd0dd1cd06f4
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1dfc556043001b5418276be0d5c15b18,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9256c1f75161c454e88349f553f57085,
+      type: 2}
